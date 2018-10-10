@@ -1,0 +1,5 @@
+1. create local repository
+2. clone global repository
+3. add new file Description.txt
+4. commit local file
+5. push local repository to global repository
