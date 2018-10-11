@@ -3,3 +3,4 @@
 3. add new file Description.txt
 4. commit local file
 5. push local repository to global repository
+open SourceTree
