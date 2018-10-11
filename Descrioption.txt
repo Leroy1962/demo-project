@@ -4,6 +4,3 @@ create new branch add-my-branch
 3. add new file Description.txt
 4. commit local files
 5. push local repository to global repository
-SourceTree
-SourceTree change
-
